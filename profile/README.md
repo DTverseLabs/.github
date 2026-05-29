@@ -9,7 +9,7 @@ Products
 - DTalk
 - DVault
 - Deducate
-- Rasayan Shala
+and many more interesting things... 
 
 Services
 
@@ -19,7 +19,7 @@ Services
 - AI Integrations
 - Custom Software Solutions
 
-Contact
+Connect with us
 
 - contact@dtverselabs.in
 - careers@dtverselabs.in
