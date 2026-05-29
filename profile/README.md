@@ -1,7 +1,3 @@
-DTverse Labs
-
-Building products, empowering ideas.
-
 DTverse Labs is an independent innovation studio building software, educational platforms, AI-powered tools, and digital experiences.
 
 Products
